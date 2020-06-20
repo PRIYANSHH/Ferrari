@@ -10,8 +10,8 @@ $(".test").click(function(){
 $(".navbar-toggler").click(function(){
   function myFunction(x) {
     if (x.matches) {
-      $(".navbar-brand").css("margin-left","220px");
-      $("button").css("margin-right","200px");
+      $(".navbar-brand").css("margin-left","260px");
+      $("button").css("margin-right","230px");
       $("body").width("890");
     }
     else{
